@@ -102,5 +102,3 @@ python unified_comparison.py
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
----
